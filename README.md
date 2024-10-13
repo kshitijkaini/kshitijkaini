@@ -12,9 +12,10 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkaini&theme=radical&hide_border=false" /></td>
   </tr>
 </table>
-
+</br>
 <p align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkaini&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkaini&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kshitijkaini&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
