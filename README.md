@@ -11,10 +11,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=kshitijkaini&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkaini&theme=radical&hide_border=false" /></td>
   </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kshitijkaini&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkaini&theme=radical&hide_border=false" /></td>
-  </tr>
 </table>
 
 <p align="center">
