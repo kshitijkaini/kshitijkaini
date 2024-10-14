@@ -25,7 +25,7 @@
 
 ## Socials :rocket::star2:
 [![LinkedIn](https://img.icons8.com/?size=60&id=13930&format=png&color=000000)](https://www.linkedin.com/in/kshitij-kaini-38278b216/)&nbsp;
-[![Facebook](https://img.icons8.com/?size=60&id=13912&format=png&color=000000)]([https://www.facebook.com/your-profile-link](https://www.facebook.com/kshitij.kaini.7/))&nbsp;
+[![Facebook](https://img.icons8.com/?size=60&id=13912&format=png&color=000000)]([[https://www.facebook.com/your-profile-link](https://www.facebook.com/kshitij.kaini.7/)](https://www.facebook.com/kshitij.kaini.7/))&nbsp;
 [![Gmail](https://img.icons8.com/?size=60&id=EgRndDDLh8kS&format=png&color=000000)](mailto:kshitijkaini@gmail.com)&nbsp;
 
 
