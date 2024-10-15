@@ -1,3 +1,5 @@
+<!--Metrics-->
+[<img align="left" width="400" alt="General Metrics" src="assets/general.svg">](#)
 ---
 [![](https://visitcount.itsvg.in/api?id=kshitijkaini&icon=0&color=0)](https://visitcount.itsvg.in)
 <table>
