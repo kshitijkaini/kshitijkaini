@@ -1,11 +1,9 @@
-<!--Metrics-->
-[<img align="left" width="1450" alt="General Metrics" src="assets/general.svg">](#)
 ---
 [![](https://visitcount.itsvg.in/api?id=kshitijkaini&icon=0&color=0)](https://visitcount.itsvg.in)
 <table>
   <tr>
     <td>
-      <img align="center" src="https://metrics.lecoq.io/kshitijkaini?template=classic&languages=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=15&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=12&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FKatmandu" width="1450" />
+      [<img align="center" width="1450" alt="General Metrics" src="assets/general.svg">](#)
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kshitijkaini&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400" />
