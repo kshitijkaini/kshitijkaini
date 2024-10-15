@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      [<img align="center" width="1450" alt="General Metrics" src="assets/general.svg">](#)
+      <img align="center" width="1450" alt="General Metrics" src="assets/general.svg">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kshitijkaini&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400" />
